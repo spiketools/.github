@@ -1,2 +1,3 @@
 # .github
- Organization level .github folder. 
+ 
+ Organization level .github folder for spiketools.
